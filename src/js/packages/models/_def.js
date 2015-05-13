@@ -1,0 +1,1 @@
+angular.module('AngularFactory.models.App', ['angular-storage']);

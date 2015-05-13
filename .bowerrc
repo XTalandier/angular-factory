@@ -1,0 +1,4 @@
+{
+	"https-proxy": "http://proxy.cma-cgm.com:8080",
+	"proxy": "http://proxy.cma-cgm.com:8080"
+}

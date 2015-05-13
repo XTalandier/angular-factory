@@ -1,0 +1,15 @@
+{
+  "name": "c-smartphone",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "angular": "1.x",
+    "angular-route": "1.x",
+    "font-awesome": "4.2",
+    "bootstrap": "3.x",
+    "angular-scroll": "~0.7.0",
+    "angular-sanitize": "~1.4.0",
+    "a0-angular-storage": "~0.0.10",
+    "angular-translate": "~2.7.0"
+  }
+}

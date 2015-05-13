@@ -1,0 +1,281 @@
+common.headerText_homepage					Tracking
+common.tracking					Tracking
+common.trackingTab					Tracking
+common.homepageSearchDescription					Saisir un numéro de conteneur,  de connaissement ou de booking
+common.homepagePreviousTab					Recherches précédentes
+common.homepageBookmarkTab					Favoris
+common. bookmarks					Favoris
+common.bookmarks_android					Favoris
+common.voyage					Voyage
+common.routing					Routing
+common.labelMoreHeader					Autres…
+common.more					Autres…
+common.homepageCancelButton					Annuler
+common. helpPageBack					Annuler
+common.vd_fastsearch_page_cancel					Annuler
+common.bl					Connaissement
+common.booking					Booking
+common.container					Conteneur
+common.multipleSearchDescription					Pour lancer une recherche avec plusieurs conteneurs, séparez les références par des virgules
+common.helpPageOk					Ok
+common.labelSettingsHelp					Aide
+common.labelSettings					Paramètres
+common. labelSettingsHeader					Paramètres
+common.settingsLanguageHeader					Paramètres
+common.setting_android					Paramètres
+msg.ER_TEXT_6					Merci d'entrer un numéro afin d'effectuer une recherche
+msg.ER_TEXT_7					La référence n'est pas valide. Merci de vérifier.
+msg.TODO					Pas de résultats. Merci d'essayer une nouvelle recherche.
+msg.ER_TEXT_8					Vous pouvez entrer jusqu'à 3 références de conteneurs.
+msg.ER_TEXT_15					Pas de réseau détecté. Merci de vérifier votre connexion réseau.
+msg.headerText_containerresults_fast					Tracking recherche
+msg.headerText_containerresult					Résultat Tracking
+container-status.ETA_DISCHARGE					Déchargement
+container-status.ETA_FINAL_DISCHARGE					Arrivée au port de déchargement
+container-status.ETA_LOAD					Départ
+container-status.FCR					Sortie de flotte plein
+container-status.FDF					DI in full
+container-status.FRO					Retour en flotte
+container-status.FSO					Sortie de flotte
+container-status.IDF					Déchargé
+container-status.IFC					Le conteneur au destinataire
+container-status.IFP					Plein à quai pour dépotage
+container-status.IIT					Réceptionné pour transfert à l'Export
+container-status.IRI					Réceptionné pour transfert à l'Import
+container-status.MCR					Sortie de flotte vide
+container-status.MEA					Vide au dépôt
+container-status.MED					Vide au dépôt
+container-status.MEI					Vide au dépôt
+container-status.MES					Vide pour chargement à quai
+container-status.MOH					Entrée dans la flotte vide
+container-status.MOS					Livré vide au Chargeur
+container-status.MSF					Conteneur client plein
+container-status.MSO					Conteneur client vide
+container-status.PSE					Le container est sur rail pour l'Export
+container-status.PSI					Le container est sur rail pour l'Import
+container-status.RSF					SOC plein
+container-status.RSM					SOC vide
+container-status.TAF					Le container est en transit pour l'Import
+container-status.TDF					Déchargé, en transbordement
+container-status.TOF					Chargé à bord
+container-status.TPF					Le container est en transit pour l'Export
+container-status.XOF					Chargé à bord
+container-status.XRX					Prêt pour chargement
+container-status.FAS					Plein chez le chargeur
+container-status.MAS					Vide chez le chargeur
+container-status.FAC					Plein chez le réceptionnaire
+container-status.MAC					Vide chez le receptionnaire
+container-status.MEF					Vide au dépôt
+container-status.MEM					Vide au dépôt
+container-status.MEG					Vide au dépôt
+msg.ER_TEXT_1					non trouvé, déjà vidé ou retourné au dépôt
+container-tracking.Not required					Détails Tracking
+container-tracking.pastMoves					Mouvement effectué
+container-tracking.provisionalMoves					Mouvements prévisionnels
+msg.ER_TEXT_PR					Les heures affichées sont les heures locales. Les mouvements prévisionnels sont donnés à titre indicatif exclusivement, sans garantie, et peuvent subir des changements, à tout moment, sans préavis.
+container-tracking.customerNumber_label					Numéro Douanes
+help.labelCountryHeader					Pays
+help.help_country					Pays
+help.helpPageDescription					Pour trouver la solution sur-mesure à vos demandes, vous pouvez contacter notre service client.
+help.headerTextHelp					Aide
+help.helpPageInputName					Nom
+help.staticSubtopicTxt					Sous-catégorie
+help.helpPageInputEmail					eMail
+help.staticTopicTxt					Catégorie
+help.helpPageInputReference					Référence
+help.helpPageInputMessage					Message
+help.helpPageInputSubject					Objet
+msg.ER_TEXT_13					Des champs obligatoires sont manquants
+msg.ER_TEXT_12					Problème avec le système Contact. Merci d'essayer à nouveau.
+settings.labelSettingsLegelTerm					By accessing this CMA CGM Mobile Device Application (“Application”) on your mobile device, you accept, without limitation, the following legal conditions.<BR>CMA CGM may, at any time and without prior notice, modify these legal terms.<BR>By accessing this Application, you accept these modifications. You are therefore advised to check the legal terms regularly to be aware of the latest modifications.<BR>• CMA CGM may, at any time and without prior notice, change or update the Information contained in this Application as well as its services detailed therein. You should check this Application regularly, or contact our local office.<BR>• Unless otherwise specified, or in the case of press releases, all information, articles and pictures are protected by copyright and cannot be used without prior written agreement from CMA CGM.<BR>• In no case or no event, shall CMA CGM or any third party connected with CMA CGM, be liable for any direct or indirect damage, connected with or derived from accessing this Application and/or using the information contained therein.<BR>• By offering this service, CMA CGM intends to update it regularly. However no representation is made or warranty given (either express or implied) as to the completeness or accuracy of the information it contains.<BR>• By giving information through this Application, you agree that this information can be given to an interested party solely for sales purposes, and that CMA CGM will not be liable for any direct or indirect loss arising from wrong or unjustified transferal of information to a third party, nor for the unauthorized access of any third party to this information. Equally, CMA CGM will not be liable for any inaccurate or confidential information provided in the framework of this service.<BR>• Any data, comment and/or suggestion that each User contributes to this Application will become the property of CMA CGM and may be used, without restriction, within the scope of the CMA CGM Group's activities. These comments and/or suggestions will not be treated as confidential.<BR>• CMA CGM measures use of this Application. We record your IP address, your device manufacturer and model, and your device operating system version. This data doesn’t allow identifying personals. Only forms you decide to fill are transmitted to CMA CGM.<BR>• In no case or no event, shall CMA CGM, its subsidiaries, affiliates, partners, agents, representatives, and any person involved in the elaboration of this Application, be liable for any decision made or action taken after consulting this Application, or for any direct or indirect loss, including but not limited to sales, loss of profit or information, incurred from accessing this Application and/or acting on the information contained therein.<BR>• CMA CGM will not be liable for any damage resulting from a virus on your mobile devise. Nor will it be liable for any damage resulting from unauthorized access by any third party to any information, data or access code contained in this Application.<BR>• Password protected areas of this Application are available exclusively to authorized people. Any unauthorized person accessing these areas will be prosecuted.<BR>• This Application is protected by French law. Any dispute arising in relation to its use will take place under French jurisdiction.<BR>• CMA CGM complies with the Office of Foreign Assets Control (OFAC) of the US Department of the Treasury program’s regarding economic and trade exchange involving an American entity. All details are available on the OFAC’s web site: http://www.treas.gov/offices/enforcement/ofac/.For any details, please contact CMA CGM Group’s Data Protection Officer: ho.dpo@cma-cgm.com.<BR>• This Application and its use are protected by French law, particularly articles 38, 39 and 40 of the Law 78-17 of the 6th January 1978 concerning data protection and privacy.<BR>Any dispute arising out of or related to the use of this Application shall be subject to the exclusive jurisdiction of French courts.<BR>CMA CGM Marseille Head Office, 4, quai d'Arenc 13235 Marseille cedex 02 France, Registration Number 562 024 422 Marseille
+settings.labelSettingsCMAadd1					CMA CGM Marseille Siège Social
+settings.labelSettingsCMAadd2					4, quai d'Arenc
+settings.labelSettingsCMAadd3					13235 Marseille cedex 02 France
+settings.labelSettingsLegelHeader					Mentions légales
+settings.labelSettingsFollowus					Suivez nous
+settings.labelFb					Facebook
+settings.labelTwit					Twitter
+settings.labelSettingsAbout					A propos de
+settings.langLabel 					Changer la langue
+settings.appVersionCSmart 					Version App
+settings.helpPageInputCompanyName					Nom du client
+help.labelSubtopicHeader					Sous-catégorie
+help.labelTopicHeader					Catégorie
+help-topic.topic1					A propos de l'application mobile CMA CGM
+help-topic.topic2					Suivi de conteneurs
+help-topic.topic3					Horaires
+help-subtopic.subtopic_technical_issue_mobile_app					Problèmes techniques
+help-subtopic.subtopic_improvement_suggestion_mobile_app					Proposition d'amélioration
+help-subtopic.subtopic_other_question_or_suggestion_mobile_app					Autres questions ou suggestions
+help-subtopic.subtopic_estimated_time_of_arrival					Heure d'arrivée estimée
+help-subtopic.subtopic_transhipment_details					Détail du Transbordement
+help-subtopic.subtopic_container_status					Statut du conteneur
+help-subtopic.subtopic_vessel_name					Nom du navire
+help-subtopic.subtopic_delay_transit_time					Délai / Transit Time
+help-subtopic.subtopic_tracking_events					Evénements tracking
+help-subtopic.subtopic_other_question_container					Autres questions
+help-subtopic.subtopic_routing_finder					Calcul d'Itinéraire
+help-subtopic.subtopic_port_to_port					Horaires par port
+help-subtopic.subtopic_vessel_finder					Recheche de navire
+help-subtopic.subtopic_other_question_schedules					Autres questions
+container-tracking.containerinfoText					Information
+container-tracking.conatinerinfoLocation					A partir du
+container-tracking.toContainerInfo					A
+share.TEXT_SUB_SINGLE_CONTAINER					Suivre le tracking du conteneur
+share.TEXT_SUB_MULTI_CONTAINER					Suivre le tracking pour
+share.TEXT_Hi					Bonjour,
+share.TEXT_LN1					Je pensais que vous souhaitiez suivre le tracking de
+share.TEXT_LN2					Pour plus d'informations
+share.TEXT_CRL					Liste de résultats de conteneurs
+share.TEXT_FROM					A partir du
+share.TEXT_LOADING					Chargé à
+share.TEXT_DISCHARGING					Déchargeant à
+share.TEXT_TO					Destination
+share.TEXT_CURRENTMOVE					Mouvement actuel
+share.TEXT_PROVISIONALMOVE					Mouvements prévisionnels
+share.TEXT_PASTMOVE					Mouvement effectué
+share.TEXT_FTLN1					Grâce à notre application, suivez vos chargements et consultez nos horaires sur votre smartphone !
+share.TEXT_FTLN2					CMA CGM disponible sur Apple App Store et Google Play
+bookmarks.labelBookmarksHeader					Favoris
+bookmarks.trackingTab					Suivi
+bookmarks.voyageTab					Voyage
+bookmarks.scheduleTab					Routing
+more.labelSettingsContact					Contact
+more.headerTextContact					Contact
+msg.ER_TEXT_5					Format incorrect
+msg.ER_TEXT_3					Erreur
+msg.ER_TEXT_4					L'application CMA CGM n'est pas disponible actuellement. Merci d'essayer ultérieurement ou consultez notre site web cma-cgm.com
+msg.ER_TEXT_16					Alerte
+msg.ER_TEXT_9					Message envoyé
+msg.ER_TEXT_10					Votre message a été envoyé avec succès. CMA CGM vous contactera par email prochainement.
+msg.ER_TEXT_11					Erreur Formulaire de Contact
+msg.ER_TEXT_14					Pas de réseau détecté. Merci de vérifier votre connexion réseau.
+msg.ER_TEXT_17					10 recherches maximum peuvent être marquées en tant que favoris
+msg.ER_TEXT_18					Mauvais format d'email, merci de vérifier
+container-tracking.labelProvisionalMovesNotFound					Nous n'avons pas trouvé de mouvements prévisionnels, vous pouvez contacter le Support Client pour plus d'informations
+container-tracking.containerInfo					Information Conteneur
+share.TEXT_SUB_FROM					Solution de
+share.TEXT_SUB_TO					A
+share.TEXT_CMAURLMSG					Vous pourriez être intéressé par la solution suivante disponible sur http://www.cma-cgm.com
+share.TEXT_BETWEEN					Entre
+share.TEXT_AND					et
+share.TEXT_MOREINFO					Pour plus d'informations
+share.TEXT_DAYS					Jours
+share.TEXT_DEPARTURE					Départ
+share.TEXT_CUTOFF					Cutoff
+share.TEXT_SERVICE					Service
+share.TEXT_VESSEL					Navire
+share.TEXT_VOYAGE_REF					Réf. voyage
+share.TEXT_ON_CMACGM					sur cma-cgm.com
+share.TEXT_ARRIVAL					Arrivée
+share.TEXT_VOYAGE					Voyage
+share.TEXT_VOAYGECMAURL					Vous pourriez être intéressé par ce Voyage disponible sur http://www.cma-cgm.com
+share.TEXT_VOYAGE_REFERENCE					Numéro de voyage
+share.TEXT_PAST_CALL					Escale précédente
+share.TEXT_FUTURE_CALL					Prochaine escale
+share.TEXT_CURRENT_CALL					Escale en cours
+share.TEXT_SAIL					Départ
+voyage.voyageFinderVoyageTab					Voyage
+voyage.voyageFinderVesselTab					Navire
+voyage.voyagePreviousTab					Recherches précédentes
+voyage.voyageBookmarkTab					Favoris
+voyage.vesselPreviousTab					Recherches précédentes
+voyage.vesselBookmarkTab					Favoris
+voyage.vd_past_call					Escale précédente
+voyage.vd_future_call					Prochaine escale
+routing.routing_details_fastsearch_page_title					Routing
+routing.routing_fs_page_cancel					Annuler
+routing.routing_details_browselabel1					Naviguer
+routing.routing_details_browselabel2					Naviguer
+routing.routing_details_countryid1					Sélectionner un pays
+routing.routing_details_countryid2					Sélectionner un pays
+routing.routing_deatils_placeid1					Choisir un lieu
+routing.routing_deatils_placeid2					Choisir un lieu
+routing.routing_deatils_search					Chercher sur
+routing.routing_deatils_from					A partir du
+routing.routing_deatils_next					Suivant
+routing.routing_details_morefilterbtn					Plus de filtres
+routing.routing_details_hidefilterbtn					Masquer Filtre
+routing.routing_fs_filter					Filtre
+routing.labelWeekHeader					Sélectionner une semaine
+routing.morefilterbtn					Plus de filtres
+routing.headerText_routing_result					Routing
+routing.settingsLanguageHeader					Paramètres
+routing.routeloading					Lieu de Chargement
+routing.autocomplete					Lieu de Chargement
+routing.routedischarge					Lieu de Déchargement
+routing.autocomplete1					Lieu de Déchargement
+routing.browselabel1					Naviguer
+routing.browselabel2					Naviguer
+routing.lessfilterbtn					Masquer Filtre
+routing.searchbtn					Rechercher
+routing.countryid1					Pays
+routing.countryid2					Pays
+routing.placeid1					Ville
+routing.placeid2					Ville
+routing.search					Chercher sur
+routing.from					A partir du
+routing.next					Suivant
+routing.vd_nextBtn					Suivant
+routing.search1					Arrivée
+routing.search2					Départ
+routing.labelSearchHeader					Rechercher
+routing.week1					1 Semaine
+routing.week2					2 Semaines
+routing.week3					3 Semaines
+msg.ER_TEXT_VD1					Les schedules ci dessus sont prévisionnels et peuvent subir des changements.
+msg.ER_TEXT_VD2					Les horaires affichées sont des horaires locales
+msg.ER_TEXT_TR					Le détail des contacts des terminaux fournis sont collectés et mis à jour par le carrier dans son propre système
+msg.ER_TEXT_TR1					L'exactitude des données n'est pas garantie. Si vous notez une information incorrecte, merci
+voyage.vd_cutoff					Cutoff
+voyage.vd_arrival					Arrivée
+voyage.vd_sail					Départ
+voyage.vd-terminalBtn-current					Terminal
+voyage.displayTerminal					Terminal
+voyage.vd-terminalBtn-future					Terminal
+voyage.vd-terminalBtn-past					Terminal
+voyage.vd_fastsearch_header_text					Recherche d'un Voyage
+voyage.vd_header_text					Recherche d'un Voyage
+voyage.headerText_voyage2					Recherche d'un Voyage
+voyage.vd_fastsearch_title					Recherche d'un Voyage
+voyage.headerText_vd					Recherche d'un Voyage
+voyage.vd_fastsearch_voyage_tab					Voyage
+voyage.vd_fastsearch_vessel_tab					Navire
+voyage.vf-voyage-search-text					#N/A
+voyage.vesselautocomplete					#N/A
+routing.rd_schedule					Horaire
+routing.rd_days					Jours
+routing.rd_from					A partir du
+routing.rd_departure					Départ
+routing.rd_arrival					Arrivée
+routing.rd_cutoff					Cutoff
+routing.rd_service					Service
+routing.rd_vessel					Navire
+routing.rd_voyage_ref					Réf. voyage
+routing.rd_via					Via
+routing.rd_to					A
+msg.ER_TEXT_VF_NOVOYAGE					#N/A
+container-tracking.destinationLabel					Destination
+container-tracking.placeOfLodingLabel					Port de chargement
+msg.ER_TEXT_MANDATORY					Entrez une valeur pour votre recherche.
+msg.ER_TEXT_VESSEL_INVALID					Ce nom de navire est invalide. Veuillez vérifier s'il vous plait.
+msg.ER_TEXT_RER_INVALID					La référence n'est pas valide. Merci de vérifier.
+common.containers					Conteneurs
+common.toolbarhelp					Contact
+common.help_android					Contact
+common.toolbarshare					Partager
+common.loading					Chargement
+msg.ER_TEXT_NORESULT					Pas de résultats. Merci d'essayer une nouvelle recherche.
+msg.ER_TOPIC_INVALID					Choisir une catégorie
+voyage.headerText_termianal2					Info Terminal
+voyage.TerminalSearchHeader					Info Terminal
+routing.routing_solution					Solution
+Terminal.phone					Téléphone
+Terminal.na					N/A
+msg.ER_TEXT_1_NEW					non trouvé, déjà vidé ou retourné au dépôt, merci de contacter le service client pour plus d'informations.
+help.helpPageSend					Envoyer
+terminal.termnal_contactus					nous contacter
+bookmarks.dataTabContainer1					Pas de favoris
+bookmarks.dataTabContainer2					Pas de favoris
+bookmarks.dataTabContainer3					Pas de favoris
+common.placeOfDischargeLabel					Port de Déchargement
